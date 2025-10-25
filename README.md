@@ -5,7 +5,7 @@ A collection of reusable Java utility classes for common tasks. This repository 
 ## Features
 
 ### String Utilities
-- `StringUtils`: Reverse strings, capitalize, pad, trim, and more.
+- `StringUtils`: Reverse, pad, count chars and words and truncate strings.
 
 
 ### Math Utilities
