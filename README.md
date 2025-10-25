@@ -18,8 +18,8 @@ A collection of reusable Java utility classes for common tasks. This repository 
 
 ### Prerequisites
 - Java JDK 17+
-- Maven (or Gradle) for dependency management
-- Git
+- Maven (or Gradle) for dependency management (optional)
+- Git (optional)
 
 ### Clone Repository
 ```bash
